@@ -2,7 +2,7 @@
 ## My name is Ella Hanzin
 
 - 🔭 I currently finished a Bachelor of Applied Science - BASc @ Lev Academic Center (JCT)in Bioinformatics.
-- 🌱 I’m currently learning at the Hebrew University of Jerusalem doing a master degree in Biomedical Science.
+- 🌱 I’m currently learning @ the Hebrew University of Jerusalem doing a master degree in Biomedical Science.
 - 👯 I’m looking to collaborate on Bioinformatics prijects.
 
 - 📫 You can reach me in <img src="https://user-images.githubusercontent.com/73067197/182304153-29d86dec-2f83-49cd-a61b-fb660d05665b.png" width="100">
